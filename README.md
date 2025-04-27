@@ -39,4 +39,8 @@ Sometimes, good ideas just strike when you least expect them! 🚀
 - Avoid hitting the blocks (`o`).
 - The more blocks you survive, the higher your score!
 
+# Preview
+
+![image](https://github.com/user-attachments/assets/e0a496a5-54f8-4b83-8b4e-65444788d2a5)
+![image](https://github.com/user-attachments/assets/a372c54b-73b9-41f8-805a-f67d510b8080)
 
